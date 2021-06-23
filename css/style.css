@@ -61,6 +61,7 @@ p {
     box-shadow: 0 4px 8px 0 rgba(243, 241, 241, 0.2);
     background-color: rgb(123, 123, 123);
     max-width: 300px;
+    min-width: 100px;
     margin: auto;
     text-align: center;
     font-family: arial;
